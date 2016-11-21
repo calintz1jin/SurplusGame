@@ -9,6 +9,8 @@
 #include "MainScene.h"
 #include "TitleScene.h"
 
+// 변한거 찾아봐용.
+
 MainScene::MainScene()
 : rootNode(nullptr)
 , spr_target(nullptr)
