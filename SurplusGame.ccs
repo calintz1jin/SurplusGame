@@ -1,0 +1,15 @@
+<Solution>
+  <PropertyGroup Name="SurplusGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="black_circle.png" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="TitleScene.csd" Type="Scene" />
+        <Image Name="white_circle.png" />
+        <Image Name="white_rect.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
